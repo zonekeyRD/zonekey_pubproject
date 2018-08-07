@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.13.75:8080/eControl2_Phone.ipa</string>
+					<string> http://120.77.253.101:8091/wisdom/app/down?path=/app/EControl/eControl2_Phone.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.Zonekey.shoukebao</string>
+				<string>cn.com.zonekey.eControl2-Phone</string>
 				<key>bundle-version</key>
-				<string>1.0.3</string>
+				<string>1.0.0.0807</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
