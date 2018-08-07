@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.107:8080/shoukebao.ipa</string>
+					<string>http://192.168.13.75:8080/eControl2_Phone.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
