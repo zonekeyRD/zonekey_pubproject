@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://120.77.253.101:8091/wisdom/app/down?path=/app/TEACH_ZKT/TEACH_ZKT_latest.ipa </string>
+					<string>http://120.77.253.101:8091/wisdom/app/down?path=/app/ZKT/ZKT_latest.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
