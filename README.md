@@ -7,4 +7,4 @@
 下载 app  url={plist地址}
 itms-services://?action=download-manifest&url=https://xxx.com/manifest.plist
 
-itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/zonekeyRD/zonekey_pubproject/master/iOS_EControl.plist
+itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/zonekeyRD/zonekey_pubproject/master/ios_web_ydjy.plist
