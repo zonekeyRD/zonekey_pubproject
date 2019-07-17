@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.com.zonekey.eControl2-Phone</string>
+				<string>io.dcloud.UNI937594F</string>
 				<key>bundle-version</key>
 				<string>1.6.0.0822</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>App(副标题)</string>
 				<key>title</key>
-				<string>E控制</string>
+				<string>移动教研</string>
 			</dict>
 		</dict>
 	</array>
